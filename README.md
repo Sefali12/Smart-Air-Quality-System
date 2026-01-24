@@ -51,7 +51,7 @@
 ---
 
 ## 🔮 Future Scope
-📈 Predictive air quality analysis  
+📈 Predictive analysis of air quality
 📱 Mobile app integration  
 🌀 Smart ventilation & purifier control  
 
